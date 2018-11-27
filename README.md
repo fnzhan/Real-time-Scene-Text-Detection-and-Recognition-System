@@ -10,4 +10,4 @@ Download trained crnn model from https://www.dropbox.com/s/dboqjk20qjkpta3/crnn.
 # Image Samples
 ![image](https://github.com/fnzhan/Real-time-Scene-Text-Detection-and-Recognition-System/blob/master/screenshot.png)
 
-Here is a video of the real time system:
+Here is a video of the real time system: https://youtu.be/1zvteqaU4h4
