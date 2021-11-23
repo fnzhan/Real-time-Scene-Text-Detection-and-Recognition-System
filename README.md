@@ -1,7 +1,7 @@
 # Real-time-Scene-Text-Detection-and-Recognition-System
 End-to-end pipeline for real-time scene text detection and recognition.
 
-The detection model use the EAST, the recognition model use the crnn.
+[EAST](https://github.com/argman/EAST) is employed for the detection model, [CRNN](https://github.com/meijieru/crnn.pytorch) is employed for the recognition model.
 
 
 # Installation
